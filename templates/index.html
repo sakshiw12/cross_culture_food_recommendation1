@@ -1,0 +1,83 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cross-Cultural Food Recommender</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #000000; /* Black background */
+            color: #ffffff; /* White text */
+            text-align: center;
+            padding: 40px;
+        }
+
+        .container {
+            width: 60%;
+            margin: auto;
+            background: #1a1a1a; /* Dark container background */
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px #444;
+        }
+
+        select, button {
+            padding: 10px;
+            width: 60%;
+            margin: 10px auto;
+            font-size: 16px;
+            background: #333;
+            color: white;
+            border: 1px solid #555;
+        }
+
+        select option {
+            background: #000;
+            color: #fff;
+        }
+
+        button:hover {
+            background: #555;
+        }
+
+        .data {
+            margin-top: 20px;
+            width: 100%;
+            border-collapse: collapse;
+            color: #fff;
+        }
+
+        .data th, .data td {
+            border: 1px solid #666;
+            padding: 8px;
+        }
+
+        .data th {
+            background-color: #222;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🌍 Cross-Cultural Food Recommendation System 🍜</h2>
+        <form action="/predict" method="post">
+            <select name="dish_name" required>
+                {% for recipe in recipes %}
+                    <option value="{{ recipe }}">{{ recipe }}</option>
+                {% endfor %}
+            </select>
+            <br>
+            <button type="submit">Recommend Similar Dishes</button>
+        </form>
+
+        {% if prediction_text %}
+            <h3>{{ prediction_text }}</h3>
+            {% for table in tables %}
+                {{ table|safe }}
+            {% endfor %}
+        {% endif %}
+    </div>
+</body>
+</html>
+

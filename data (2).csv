@@ -1,0 +1,1001 @@
+name,ingredients,cuisine,diet
+Biryani,"potato, lime, pepper, basil",Greek,Vegan
+Masala Dosa,"onion, lentils, potato, pork, beans",Greek,Vegan
+Palak Paneer,"spinach, rice, tofu, beef, beans, mint",Japanese,Vegan
+Chole Bhature,"tomato, tofu, chili, garlic, ginger, cheese",Indian,Non-Vegetarian
+Rajma Chawal,"pepper, lime, potato, basil",Mexican,Vegetarian
+Tandoori Chicken,"yogurt, mint, beans, lime, onion",Italian,Vegetarian
+Aloo Paratha,"spinach, tomato, lime, pork, basil, garlic, pepper",Thai,Vegetarian
+Butter Chicken,"pepper, basil, beef, chicken, onion, carrot, beans",French,Vegetarian
+Dhokla,"beans, soy sauce, coconut, onion",Indian,Vegetarian
+Sambar,"yogurt, mint, onion, potato, spinach, lime, soy sauce",Japanese,Vegetarian
+Spaghetti Carbonara,"tofu, cheese, lime, pork, potato, yogurt",Thai,Vegan
+Margherita Pizza,"spinach, cheese, garlic, carrot, ginger",Thai,Non-Vegetarian
+Lasagna,"beef, mint, ginger, lentils, basil, chicken",Greek,Non-Vegetarian
+Risotto,"cheese, chicken, lime, potato, soy sauce",Thai,Vegetarian
+Fettuccine Alfredo,"pork, beans, noodles, potato, cheese, chili, beef",French,Non-Vegetarian
+Bruschetta,"tomato, garlic, noodles, cheese, pork",Japanese,Vegetarian
+Tiramisu,"yogurt, ginger, cheese, tomato",Indian,Vegetarian
+Gnocchi,"cheese, lentils, spinach, lime, basil, mint, pork",Italian,Vegetarian
+Caprese Salad,"onion, chicken, soy sauce, beef, tofu, mint, beans",Greek,Vegan
+Panna Cotta,"soy sauce, lime, beans, carrot",Italian,Non-Vegetarian
+Sushi,"basil, tofu, noodles, chili, spinach, chicken, beef",French,Vegan
+Ramen,"pork, soy sauce, ginger, rice",Thai,Vegan
+Tempura,"coconut, tofu, lentils, yogurt, carrot, chicken",Italian,Vegan
+Udon,"coconut, cheese, rice, noodles, potato, beef",French,Non-Vegetarian
+Miso Soup,"pepper, potato, tomato, onion",Italian,Vegan
+Okonomiyaki,"ginger, chili, pork, onion, rice, chicken",Thai,Vegan
+Yakitori,"mint, garlic, chili, noodles, tofu, tomato, ginger",Mexican,Non-Vegetarian
+Tonkatsu,"spinach, mint, garlic, tomato, chili, rice, yogurt",Greek,Vegetarian
+Onigiri,"coconut, spinach, yogurt, pepper",Greek,Vegetarian
+Sashimi,"yogurt, spinach, rice, lentils, pork, chili",Thai,Non-Vegetarian
+Tacos,"lime, chili, potato, tofu, carrot, rice, mint",French,Vegetarian
+Enchiladas,"lentils, yogurt, soy sauce, beef, chicken, onion, potato",French,Vegan
+Guacamole,"chicken, spinach, chili, garlic, onion",French,Vegan
+Tamales,"chicken, lime, potato, tofu, pork, tomato, ginger",Japanese,Non-Vegetarian
+Quesadillas,"beans, pepper, cheese, chili, yogurt",Thai,Vegan
+Churros,"tomato, cheese, rice, chicken, tofu, coconut",Indian,Vegetarian
+Burrito,"potato, carrot, cheese, noodles, beef",French,Vegetarian
+Nachos,"basil, pepper, soy sauce, chili, chicken",Indian,Vegan
+Pozole,"garlic, lime, tofu, beef, chili, pork",Indian,Vegan
+Salsa,"chicken, tomato, pepper, noodles, spinach, tofu, rice",Japanese,Non-Vegetarian
+Kung Pao Chicken,"coconut, garlic, basil, mint, yogurt",Chinese,Non-Vegetarian
+Dumplings,"mint, garlic, spinach, cheese, ginger, carrot",Indian,Vegan
+Sweet and Sour Pork,"garlic, pork, pepper, lentils",Indian,Vegetarian
+Chow Mein,"lentils, onion, ginger, potato, mint, noodles",Italian,Vegan
+Spring Rolls,"potato, tofu, beans, soy sauce",French,Non-Vegetarian
+Hot Pot,"lentils, beef, chicken, rice, garlic, noodles",Greek,Vegan
+Peking Duck,"cheese, yogurt, pork, basil, chicken, chili",Italian,Non-Vegetarian
+Mapo Tofu,"carrot, pepper, noodles, spinach, beef, cheese",Thai,Non-Vegetarian
+Wonton Soup,"rice, noodles, basil, soy sauce, pepper, beans, chili",Thai,Vegetarian
+Fried Rice,"pork, chicken, beef, carrot, beans, tomato",Mexican,Vegetarian
+Croissant,"yogurt, coconut, cheese, carrot",Chinese,Non-Vegetarian
+Ratatouille,"rice, onion, cheese, beef",Indian,Vegan
+Quiche,"cheese, beans, carrot, basil",Chinese,Vegetarian
+Bouillabaisse,"garlic, beans, carrot, chili",Indian,Vegetarian
+Coq au Vin,"basil, tofu, beef, yogurt",Japanese,Vegetarian
+Crème Brûlée,"ginger, spinach, onion, basil, lentils",Thai,Non-Vegetarian
+Baguette,"lime, spinach, coconut, soy sauce, lentils, tofu, chili",Chinese,Non-Vegetarian
+Nicoise Salad,"spinach, chili, yogurt, beans, chicken",Chinese,Vegetarian
+Beef Bourguignon,"basil, beef, mint, potato, lime, yogurt, soy sauce",Thai,Vegan
+Soufflé,"chili, mint, ginger, lime, tomato",Japanese,Vegan
+Biryani,"lentils, cheese, chicken, basil, rice, onion",Greek,Vegetarian
+Masala Dosa,"beans, chili, tomato, carrot",Japanese,Vegetarian
+Palak Paneer,"cheese, basil, tofu, carrot, lime, lentils",French,Vegan
+Chole Bhature,"pepper, tofu, lime, rice, noodles, tomato, carrot",Mexican,Non-Vegetarian
+Rajma Chawal,"tomato, potato, onion, chicken, garlic",Italian,Non-Vegetarian
+Tandoori Chicken,"onion, chicken, lentils, rice, carrot, noodles",Mexican,Vegetarian
+Aloo Paratha,"potato, pork, ginger, noodles",Japanese,Vegetarian
+Butter Chicken,"chicken, beans, soy sauce, pepper, spinach, lentils",French,Non-Vegetarian
+Dhokla,"noodles, beef, potato, coconut",Italian,Vegan
+Sambar,"mint, garlic, beef, rice",Greek,Vegan
+Spaghetti Carbonara,"chili, mint, lentils, chicken, soy sauce, carrot",Indian,Non-Vegetarian
+Margherita Pizza,"chili, mint, carrot, beef, lime, noodles, pepper",Thai,Non-Vegetarian
+Lasagna,"basil, carrot, cheese, tomato, tofu, lentils",Mexican,Non-Vegetarian
+Risotto,"pepper, chili, tomato, tofu",Greek,Vegan
+Fettuccine Alfredo,"pepper, pork, noodles, lime, coconut",Greek,Non-Vegetarian
+Bruschetta,"basil, rice, coconut, pork, lime, pepper",Greek,Vegetarian
+Tiramisu,"coconut, yogurt, potato, lime, lentils, tomato",Thai,Vegan
+Gnocchi,"rice, chili, beef, chicken",French,Vegetarian
+Caprese Salad,"tomato, cheese, basil, rice, soy sauce, garlic, mint",French,Vegan
+Panna Cotta,"beef, onion, ginger, garlic, lentils",Indian,Vegetarian
+Sushi,"noodles, rice, ginger, yogurt",Indian,Vegan
+Ramen,"coconut, pepper, noodles, mint, pork, carrot",Thai,Vegan
+Tempura,"carrot, pepper, potato, coconut, cheese, lentils, rice",Greek,Non-Vegetarian
+Udon,"tofu, mint, chicken, pepper, noodles, rice, carrot",Thai,Non-Vegetarian
+Miso Soup,"carrot, ginger, rice, potato, lime",Italian,Non-Vegetarian
+Okonomiyaki,"ginger, pepper, lime, carrot, pork",Greek,Non-Vegetarian
+Yakitori,"ginger, yogurt, cheese, noodles",Thai,Vegan
+Tonkatsu,"onion, tofu, lime, carrot",Italian,Non-Vegetarian
+Onigiri,"onion, yogurt, chili, carrot, tofu, beef, ginger",Chinese,Non-Vegetarian
+Sashimi,"basil, chicken, pepper, yogurt, spinach",Italian,Vegan
+Tacos,"spinach, coconut, beans, tofu, lime, pepper, basil",Indian,Vegan
+Enchiladas,"ginger, beef, coconut, chicken",Thai,Vegan
+Guacamole,"basil, carrot, spinach, chili",Japanese,Vegetarian
+Tamales,"soy sauce, beans, beef, tomato, chicken, lentils",French,Vegan
+Quesadillas,"noodles, chili, spinach, chicken, lentils, soy sauce",Chinese,Vegetarian
+Churros,"coconut, spinach, basil, yogurt, chili",Mexican,Vegetarian
+Burrito,"rice, garlic, tomato, soy sauce, carrot",Chinese,Vegetarian
+Nachos,"chicken, carrot, lentils, soy sauce",Mexican,Vegetarian
+Pozole,"rice, noodles, spinach, garlic, basil, coconut",Thai,Non-Vegetarian
+Salsa,"ginger, spinach, chili, coconut, potato, basil",Indian,Non-Vegetarian
+Kung Pao Chicken,"garlic, pepper, noodles, chicken",French,Non-Vegetarian
+Dumplings,"beef, spinach, noodles, coconut, onion, mint, yogurt",Italian,Vegetarian
+Sweet and Sour Pork,"pork, rice, spinach, tofu, cheese, lime, mint",Thai,Non-Vegetarian
+Chow Mein,"chicken, garlic, lentils, tomato",Thai,Vegan
+Spring Rolls,"tofu, coconut, spinach, rice, chicken",Greek,Vegan
+Hot Pot,"garlic, spinach, chicken, noodles, coconut",French,Vegan
+Peking Duck,"onion, basil, beef, lime",Mexican,Non-Vegetarian
+Mapo Tofu,"chicken, beans, garlic, yogurt, mint",Thai,Non-Vegetarian
+Wonton Soup,"tofu, cheese, onion, ginger, carrot, mint",Italian,Non-Vegetarian
+Fried Rice,"chili, tofu, chicken, spinach, onion",Mexican,Vegetarian
+Croissant,"tofu, chili, coconut, yogurt, beans, rice, garlic",Italian,Vegetarian
+Ratatouille,"pepper, coconut, potato, noodles, soy sauce",Chinese,Non-Vegetarian
+Quiche,"cheese, pepper, yogurt, soy sauce, onion, carrot",Indian,Vegetarian
+Bouillabaisse,"basil, lime, lentils, spinach, soy sauce, chicken, tofu",French,Non-Vegetarian
+Coq au Vin,"cheese, noodles, beef, lentils, onion, potato",Mexican,Non-Vegetarian
+Crème Brûlée,"cheese, carrot, ginger, yogurt, soy sauce, beans",Mexican,Vegetarian
+Baguette,"tomato, cheese, pork, carrot",Indian,Vegan
+Nicoise Salad,"potato, tomato, rice, tofu",Mexican,Non-Vegetarian
+Beef Bourguignon,"soy sauce, noodles, carrot, spinach, rice, beef",Greek,Vegan
+Soufflé,"yogurt, garlic, soy sauce, spinach, onion, tomato, beef",Indian,Vegan
+Biryani,"beans, spinach, yogurt, pepper",Thai,Non-Vegetarian
+Masala Dosa,"lime, basil, spinach, chili, beans, pepper",Indian,Vegetarian
+Palak Paneer,"tomato, tofu, rice, chili, beans, onion, pepper",Mexican,Vegetarian
+Chole Bhature,"tofu, yogurt, noodles, chicken, tomato",Mexican,Non-Vegetarian
+Rajma Chawal,"lime, tofu, rice, lentils, cheese, beef",Chinese,Non-Vegetarian
+Tandoori Chicken,"garlic, potato, lime, lentils, tomato, mint",Mexican,Non-Vegetarian
+Aloo Paratha,"spinach, noodles, mint, lime, ginger",Indian,Non-Vegetarian
+Butter Chicken,"spinach, garlic, carrot, soy sauce, beans, coconut, tomato",Greek,Vegan
+Dhokla,"carrot, beef, yogurt, ginger, tomato",Japanese,Vegetarian
+Sambar,"carrot, chicken, beef, cheese, beans, tomato",Greek,Vegan
+Spaghetti Carbonara,"tofu, beef, garlic, soy sauce, pepper",Chinese,Vegetarian
+Margherita Pizza,"cheese, lime, noodles, beans, rice, basil",Greek,Non-Vegetarian
+Lasagna,"potato, cheese, lentils, tomato",French,Non-Vegetarian
+Risotto,"soy sauce, tofu, spinach, noodles, pepper, basil",Indian,Vegetarian
+Fettuccine Alfredo,"ginger, beef, tofu, coconut",Chinese,Vegetarian
+Bruschetta,"coconut, onion, beef, spinach, pork, tofu, chili",Japanese,Vegan
+Tiramisu,"mint, spinach, ginger, chicken, potato, noodles",Greek,Vegan
+Gnocchi,"rice, lentils, lime, mint",Chinese,Vegan
+Caprese Salad,"rice, onion, pork, noodles",Mexican,Non-Vegetarian
+Panna Cotta,"lime, pepper, garlic, chicken, beans, ginger",Thai,Vegan
+Sushi,"soy sauce, lime, beans, potato, beef, mint, ginger",Chinese,Non-Vegetarian
+Ramen,"lime, carrot, ginger, pepper, noodles, soy sauce",Greek,Non-Vegetarian
+Tempura,"chili, mint, soy sauce, chicken, basil, onion",Indian,Non-Vegetarian
+Udon,"potato, pepper, garlic, tomato, basil",Japanese,Non-Vegetarian
+Miso Soup,"potato, tofu, pepper, chicken, mint, lentils, tomato",Indian,Vegan
+Okonomiyaki,"soy sauce, basil, chili, yogurt, beans, tomato, lime",Indian,Vegan
+Yakitori,"basil, chili, beef, beans, chicken",Indian,Vegetarian
+Tonkatsu,"cheese, garlic, noodles, spinach, mint, basil",Thai,Non-Vegetarian
+Onigiri,"tomato, chicken, ginger, carrot, basil, cheese",Japanese,Vegetarian
+Sashimi,"mint, beef, chicken, yogurt, ginger, rice",Thai,Non-Vegetarian
+Tacos,"chicken, yogurt, onion, ginger, soy sauce",Chinese,Vegan
+Enchiladas,"rice, onion, lentils, basil",French,Vegetarian
+Guacamole,"beans, onion, spinach, garlic, mint, lime",French,Non-Vegetarian
+Tamales,"cheese, garlic, noodles, ginger, onion, tomato, beans",French,Vegan
+Quesadillas,"lime, chili, mint, coconut, pepper",Chinese,Vegetarian
+Churros,"potato, cheese, tofu, basil, rice, carrot",Greek,Vegan
+Burrito,"yogurt, carrot, rice, chili, basil",Japanese,Non-Vegetarian
+Nachos,"beans, spinach, basil, onion, noodles",Greek,Vegan
+Pozole,"beef, yogurt, soy sauce, chili, coconut",Mexican,Non-Vegetarian
+Salsa,"coconut, onion, pork, basil",Japanese,Vegan
+Kung Pao Chicken,"coconut, cheese, lentils, lime, mint, rice, beef",Thai,Vegan
+Dumplings,"spinach, tofu, beans, onion, soy sauce, lime, chicken",Mexican,Vegetarian
+Sweet and Sour Pork,"mint, chicken, onion, noodles, lentils",Italian,Non-Vegetarian
+Chow Mein,"noodles, carrot, spinach, chili, mint, beans",Thai,Non-Vegetarian
+Spring Rolls,"soy sauce, tomato, chili, potato, lime, cheese",Thai,Vegan
+Hot Pot,"chili, rice, chicken, carrot, tofu, lentils",Indian,Vegan
+Peking Duck,"carrot, chili, onion, lime, pepper",Greek,Non-Vegetarian
+Mapo Tofu,"coconut, tomato, ginger, mint, spinach, cheese",Indian,Vegetarian
+Wonton Soup,"tomato, carrot, beans, mint",Italian,Non-Vegetarian
+Fried Rice,"potato, lime, yogurt, beef, garlic, mint",Thai,Vegetarian
+Croissant,"pepper, chicken, cheese, onion, garlic, mint, rice",Italian,Vegan
+Ratatouille,"mint, chicken, cheese, garlic, tomato, onion",French,Vegan
+Quiche,"soy sauce, onion, tofu, mint",Indian,Non-Vegetarian
+Bouillabaisse,"carrot, yogurt, tomato, lentils",Indian,Vegetarian
+Coq au Vin,"tomato, beans, rice, garlic",Mexican,Vegetarian
+Crème Brûlée,"carrot, garlic, noodles, mint",Greek,Vegan
+Baguette,"pepper, soy sauce, beans, yogurt",French,Vegan
+Nicoise Salad,"chicken, rice, ginger, beans, pepper, beef",Greek,Vegan
+Beef Bourguignon,"carrot, onion, tofu, lime, garlic",Chinese,Vegan
+Soufflé,"pork, soy sauce, cheese, coconut, onion",Japanese,Vegan
+Biryani,"beans, potato, chicken, rice, noodles",French,Vegetarian
+Masala Dosa,"spinach, chicken, garlic, coconut, tomato, carrot",Thai,Non-Vegetarian
+Palak Paneer,"soy sauce, yogurt, noodles, carrot, lentils, beef, basil",Greek,Vegan
+Chole Bhature,"garlic, noodles, tomato, pepper, coconut, spinach",Thai,Vegan
+Rajma Chawal,"noodles, chicken, soy sauce, cheese, rice",Greek,Vegan
+Tandoori Chicken,"yogurt, tomato, beef, beans",Japanese,Vegetarian
+Aloo Paratha,"rice, yogurt, mint, basil, beans, onion",Japanese,Vegetarian
+Butter Chicken,"mint, lentils, beef, ginger",Mexican,Non-Vegetarian
+Dhokla,"beans, rice, coconut, mint, tomato, ginger, noodles",Japanese,Vegetarian
+Sambar,"tomato, cheese, carrot, garlic, lentils, chili",Mexican,Vegan
+Spaghetti Carbonara,"onion, cheese, noodles, rice, tofu",Italian,Vegan
+Margherita Pizza,"cheese, pepper, garlic, chili, ginger, carrot, rice",Italian,Non-Vegetarian
+Lasagna,"potato, lime, onion, soy sauce",Italian,Vegetarian
+Risotto,"yogurt, coconut, onion, tomato",French,Non-Vegetarian
+Fettuccine Alfredo,"noodles, soy sauce, beef, garlic, pork",Japanese,Non-Vegetarian
+Bruschetta,"spinach, coconut, noodles, chicken, chili",Greek,Vegan
+Tiramisu,"pepper, soy sauce, ginger, mint, garlic, coconut",Japanese,Vegetarian
+Gnocchi,"yogurt, pork, potato, spinach, soy sauce, cheese",Indian,Vegan
+Caprese Salad,"chili, potato, garlic, beef, coconut",Thai,Vegetarian
+Panna Cotta,"noodles, coconut, mint, spinach, pepper, beef, pork",Mexican,Vegetarian
+Dish_201,"beef, onion, cheese, noodles, pepper",Indian,Non-Vegetarian
+Dish_202,"beans, mint, ginger, cheese, rice, spinach, lentils",Thai,Vegetarian
+Dish_203,"noodles, carrot, pork, rice, basil, lentils",Mexican,Vegan
+Dish_204,"lime, chili, potato, noodles",Greek,Non-Vegetarian
+Dish_205,"pork, tofu, basil, rice, potato, chicken",Japanese,Vegetarian
+Dish_206,"ginger, chicken, mint, lentils",Japanese,Vegetarian
+Dish_207,"yogurt, chicken, beans, garlic, onion",Indian,Non-Vegetarian
+Dish_208,"beef, ginger, pepper, soy sauce",Thai,Vegetarian
+Dish_209,"mint, rice, tofu, tomato, beans, pork",Greek,Vegetarian
+Dish_210,"spinach, chicken, carrot, chili",Indian,Non-Vegetarian
+Dish_211,"beans, lime, pork, garlic, rice, basil",Greek,Vegan
+Dish_212,"rice, cheese, mint, tomato, beef",Japanese,Vegan
+Dish_213,"carrot, lime, pepper, onion, lentils, potato",Indian,Vegan
+Dish_214,"lentils, yogurt, noodles, ginger",French,Vegan
+Dish_215,"rice, garlic, chicken, spinach, noodles, carrot, lime",French,Vegetarian
+Dish_216,"ginger, pepper, beef, beans, yogurt, chili, potato",Japanese,Vegetarian
+Dish_217,"pepper, potato, beans, soy sauce",French,Vegan
+Dish_218,"rice, yogurt, coconut, onion",Indian,Non-Vegetarian
+Dish_219,"onion, pepper, chili, yogurt",Chinese,Vegan
+Dish_220,"lime, spinach, mint, chicken, noodles, pork, cheese",Japanese,Vegetarian
+Dish_221,"chicken, mint, lime, noodles, rice",Italian,Vegan
+Dish_222,"tomato, noodles, onion, lentils, chili, potato, rice",Greek,Non-Vegetarian
+Dish_223,"tofu, rice, lime, beans, garlic, soy sauce",Indian,Vegetarian
+Dish_224,"lentils, coconut, soy sauce, chicken, lime, ginger, garlic",French,Vegan
+Dish_225,"coconut, pork, lime, noodles, basil",French,Vegetarian
+Dish_226,"ginger, basil, carrot, potato, tofu, rice, noodles",Greek,Vegan
+Dish_227,"beef, lime, basil, potato, chili, chicken, pepper",French,Non-Vegetarian
+Dish_228,"tomato, beef, lime, pepper, soy sauce, chili, cheese",Italian,Vegetarian
+Dish_229,"ginger, tofu, tomato, garlic, pork, chicken",French,Vegan
+Dish_230,"lentils, lime, beans, cheese, spinach, potato",Thai,Non-Vegetarian
+Dish_231,"chili, pepper, carrot, yogurt",Italian,Non-Vegetarian
+Dish_232,"chicken, pepper, rice, soy sauce, onion, beans, basil",French,Vegan
+Dish_233,"coconut, basil, rice, chicken, beef, yogurt, lime",Indian,Vegan
+Dish_234,"coconut, potato, cheese, chicken, mint, basil, yogurt",Chinese,Vegetarian
+Dish_235,"carrot, basil, lime, pork, spinach",Greek,Vegetarian
+Dish_236,"tofu, carrot, lentils, tomato, onion, lime, coconut",Japanese,Non-Vegetarian
+Dish_237,"garlic, lime, spinach, rice",Italian,Vegetarian
+Dish_238,"yogurt, pork, tomato, potato",French,Non-Vegetarian
+Dish_239,"cheese, lime, noodles, potato, mint",Italian,Vegan
+Dish_240,"beef, rice, onion, pepper",Chinese,Vegetarian
+Dish_241,"potato, chili, cheese, onion, pork",Mexican,Vegan
+Dish_242,"beef, mint, rice, tomato, basil",Greek,Vegetarian
+Dish_243,"tofu, ginger, carrot, beef",Chinese,Vegetarian
+Dish_244,"pepper, beans, chili, lime",Japanese,Non-Vegetarian
+Dish_245,"noodles, basil, carrot, pork, lime",French,Vegetarian
+Dish_246,"basil, noodles, spinach, carrot, beef, lentils, lime",French,Vegetarian
+Dish_247,"pepper, yogurt, mint, beans, pork, garlic, lentils",Indian,Vegan
+Dish_248,"mint, pepper, pork, beans, onion",French,Non-Vegetarian
+Dish_249,"rice, ginger, beans, tomato, garlic, tofu, mint",Thai,Vegetarian
+Dish_250,"yogurt, onion, garlic, noodles, spinach, cheese, ginger",Italian,Vegetarian
+Dish_251,"lentils, yogurt, basil, chili, pork",Italian,Vegan
+Dish_252,"chili, spinach, beans, soy sauce",Japanese,Non-Vegetarian
+Dish_253,"rice, potato, mint, pepper, lime, carrot",Mexican,Vegan
+Dish_254,"coconut, rice, garlic, lentils, lime",Italian,Vegan
+Dish_255,"coconut, chicken, carrot, lentils, noodles, onion",Chinese,Vegetarian
+Dish_256,"spinach, chicken, pork, lentils, cheese, noodles",French,Vegetarian
+Dish_257,"lime, rice, chili, yogurt, chicken, basil, ginger",Italian,Non-Vegetarian
+Dish_258,"yogurt, chili, noodles, pork, lentils",Chinese,Vegan
+Dish_259,"chili, cheese, tomato, coconut, mint, spinach",French,Vegetarian
+Dish_260,"mint, rice, tofu, ginger, pepper, cheese, chili",Greek,Non-Vegetarian
+Dish_261,"chicken, beef, garlic, rice, soy sauce, yogurt",Italian,Vegetarian
+Dish_262,"spinach, ginger, coconut, beans, lime, tofu",Italian,Vegan
+Dish_263,"spinach, onion, lime, chili",Mexican,Vegan
+Dish_264,"mint, spinach, ginger, noodles, yogurt",Greek,Non-Vegetarian
+Dish_265,"rice, ginger, chicken, cheese, onion",French,Vegan
+Dish_266,"beans, garlic, chili, soy sauce, basil, beef, ginger",Thai,Vegetarian
+Dish_267,"pork, beans, coconut, spinach, carrot",Indian,Non-Vegetarian
+Dish_268,"mint, rice, pork, garlic",Thai,Vegetarian
+Dish_269,"potato, lime, ginger, lentils",Italian,Vegan
+Dish_270,"tofu, noodles, basil, soy sauce",Greek,Vegan
+Dish_271,"soy sauce, carrot, pepper, beans, tomato, rice",Italian,Vegetarian
+Dish_272,"chicken, noodles, tomato, mint, garlic",Indian,Vegan
+Dish_273,"mint, rice, chicken, basil, carrot",Thai,Non-Vegetarian
+Dish_274,"lentils, pork, tomato, cheese, beef, mint",Mexican,Vegan
+Dish_275,"spinach, cheese, ginger, chili, pork, tomato",Thai,Non-Vegetarian
+Dish_276,"lentils, soy sauce, rice, cheese, noodles",Japanese,Vegetarian
+Dish_277,"cheese, onion, lentils, carrot, coconut, yogurt",Mexican,Vegan
+Dish_278,"carrot, rice, chicken, noodles, pepper",Greek,Vegetarian
+Dish_279,"basil, spinach, tofu, rice",Italian,Vegan
+Dish_280,"lentils, pork, chicken, garlic, mint, yogurt",Thai,Vegan
+Dish_281,"potato, tofu, chili, chicken, soy sauce",Indian,Vegetarian
+Dish_282,"potato, onion, cheese, beef, spinach, mint, rice",Thai,Vegan
+Dish_283,"soy sauce, lime, pork, noodles, tofu, beef",French,Vegetarian
+Dish_284,"basil, onion, chili, tomato, cheese",Mexican,Vegetarian
+Dish_285,"pepper, beans, tofu, lime, beef, basil",Indian,Vegetarian
+Dish_286,"cheese, onion, mint, soy sauce, lentils, potato, spinach",Mexican,Vegan
+Dish_287,"mint, lentils, carrot, chili",Mexican,Vegetarian
+Dish_288,"rice, lime, chili, spinach, beans, lentils",French,Vegan
+Dish_289,"lime, carrot, lentils, pepper, potato, tomato, cheese",Chinese,Vegan
+Dish_290,"yogurt, basil, chili, lime, soy sauce",Italian,Non-Vegetarian
+Dish_291,"rice, carrot, coconut, lime, garlic, tofu, potato",Greek,Vegetarian
+Dish_292,"tomato, spinach, beef, chili",Indian,Non-Vegetarian
+Dish_293,"chili, carrot, tofu, lentils, yogurt, noodles, beef",Japanese,Non-Vegetarian
+Dish_294,"soy sauce, garlic, beans, mint",Italian,Vegan
+Dish_295,"beans, pepper, lentils, onion, yogurt, potato",Thai,Non-Vegetarian
+Dish_296,"lentils, potato, onion, garlic, ginger, basil, pepper",Greek,Vegan
+Dish_297,"tofu, pepper, lentils, ginger, chicken, coconut",Chinese,Vegan
+Dish_298,"lentils, chili, mint, pepper",French,Vegan
+Dish_299,"yogurt, pork, chicken, garlic",Mexican,Vegan
+Dish_300,"coconut, cheese, tofu, basil, rice",French,Non-Vegetarian
+Dish_301,"onion, coconut, tomato, lentils, pepper, lime, beans",Japanese,Vegetarian
+Dish_302,"rice, chili, carrot, lentils, basil, chicken",Italian,Vegan
+Dish_303,"onion, spinach, soy sauce, beans",French,Non-Vegetarian
+Dish_304,"lentils, tomato, basil, pepper, potato, noodles, mint",Mexican,Non-Vegetarian
+Dish_305,"garlic, noodles, yogurt, spinach",Japanese,Non-Vegetarian
+Dish_306,"rice, potato, lime, chicken, carrot",Chinese,Vegetarian
+Dish_307,"garlic, tofu, chili, carrot, noodles, tomato, onion",Greek,Vegan
+Dish_308,"coconut, beans, rice, onion, carrot, basil",Japanese,Non-Vegetarian
+Dish_309,"chicken, lime, soy sauce, chili, onion, mint",Indian,Vegetarian
+Dish_310,"soy sauce, lime, chicken, yogurt",Chinese,Vegetarian
+Dish_311,"spinach, rice, soy sauce, beans, tomato",Greek,Vegan
+Dish_312,"carrot, onion, potato, pork",Japanese,Vegetarian
+Dish_313,"coconut, carrot, pepper, tomato",Greek,Non-Vegetarian
+Dish_314,"pork, lentils, chicken, beans, basil",Japanese,Vegetarian
+Dish_315,"lime, ginger, tofu, onion",Japanese,Vegan
+Dish_316,"beef, lentils, lime, chili, tomato, noodles, beans",Mexican,Vegan
+Dish_317,"spinach, cheese, pork, onion, pepper, potato, chili",Japanese,Non-Vegetarian
+Dish_318,"carrot, tomato, noodles, rice, beef, soy sauce, chili",Italian,Vegan
+Dish_319,"carrot, basil, pepper, garlic, cheese, ginger, beef",French,Non-Vegetarian
+Dish_320,"chili, rice, soy sauce, pork, coconut, chicken, carrot",Greek,Vegetarian
+Dish_321,"potato, noodles, lentils, beans, spinach, chicken",Thai,Vegetarian
+Dish_322,"tofu, lentils, carrot, potato, basil",Japanese,Vegan
+Dish_323,"mint, ginger, basil, garlic, lime, rice, noodles",Indian,Non-Vegetarian
+Dish_324,"basil, noodles, beans, beef, garlic, chili",Italian,Non-Vegetarian
+Dish_325,"rice, basil, tomato, potato, beef, soy sauce, carrot",Italian,Non-Vegetarian
+Dish_326,"spinach, cheese, lime, beans, pork, soy sauce, pepper",Greek,Non-Vegetarian
+Dish_327,"lime, tofu, potato, spinach, yogurt, ginger",Chinese,Vegan
+Dish_328,"carrot, pepper, spinach, ginger, soy sauce",French,Vegetarian
+Dish_329,"garlic, noodles, coconut, tofu, lime, onion",Greek,Vegetarian
+Dish_330,"coconut, lentils, noodles, tomato",Indian,Vegan
+Dish_331,"beans, cheese, noodles, lentils, chili, basil, ginger",Italian,Vegetarian
+Dish_332,"tomato, chili, tofu, lentils, lime, potato",Chinese,Non-Vegetarian
+Dish_333,"ginger, tofu, noodles, onion, carrot, cheese",Greek,Vegetarian
+Dish_334,"lentils, mint, tofu, rice, yogurt, ginger",Japanese,Vegan
+Dish_335,"ginger, onion, rice, tomato, garlic",Italian,Vegetarian
+Dish_336,"pepper, tomato, rice, potato, onion, beans",Italian,Vegetarian
+Dish_337,"noodles, soy sauce, garlic, chili, beef, basil",Greek,Non-Vegetarian
+Dish_338,"garlic, lentils, noodles, chili",Greek,Vegan
+Dish_339,"mint, pork, spinach, yogurt, garlic",Indian,Vegan
+Dish_340,"pork, garlic, noodles, carrot",Thai,Vegan
+Dish_341,"spinach, tomato, basil, carrot, lentils, ginger, soy sauce",Indian,Vegetarian
+Dish_342,"ginger, lime, cheese, pepper",Greek,Vegetarian
+Dish_343,"rice, potato, pepper, tofu",Greek,Non-Vegetarian
+Dish_344,"tofu, coconut, soy sauce, pepper, tomato, spinach, noodles",French,Vegetarian
+Dish_345,"mint, potato, beef, basil, yogurt, chicken, ginger",Italian,Vegetarian
+Dish_346,"soy sauce, onion, tomato, beans",Indian,Vegan
+Dish_347,"beans, spinach, beef, ginger, potato, coconut, garlic",French,Vegan
+Dish_348,"yogurt, lentils, lime, chili, carrot, beef",French,Non-Vegetarian
+Dish_349,"tofu, yogurt, beans, lentils",Japanese,Vegan
+Dish_350,"pepper, potato, rice, beef, carrot, soy sauce",Chinese,Vegetarian
+Dish_351,"lime, lentils, tofu, spinach, soy sauce, chicken, cheese",Mexican,Vegan
+Dish_352,"ginger, onion, rice, carrot, tomato, chicken, lentils",Italian,Vegan
+Dish_353,"lime, tomato, mint, soy sauce, noodles",Italian,Vegan
+Dish_354,"coconut, beans, lentils, pepper, chicken, mint, chili",French,Vegetarian
+Dish_355,"soy sauce, tomato, potato, beef",Mexican,Vegan
+Dish_356,"lentils, pork, noodles, beans, yogurt, chicken",Chinese,Vegan
+Dish_357,"yogurt, mint, lime, ginger",Indian,Vegetarian
+Dish_358,"basil, pork, spinach, garlic, mint",Greek,Non-Vegetarian
+Dish_359,"onion, carrot, beef, pork, potato, lentils",Chinese,Non-Vegetarian
+Dish_360,"garlic, yogurt, ginger, beef",French,Vegetarian
+Dish_361,"cheese, ginger, carrot, chicken, basil, soy sauce, pork",Greek,Non-Vegetarian
+Dish_362,"spinach, lentils, onion, chicken, ginger, coconut, tofu",Mexican,Non-Vegetarian
+Dish_363,"lime, coconut, mint, chicken, potato, beans, cheese",Italian,Vegan
+Dish_364,"cheese, lentils, tofu, beef, chicken, spinach",Chinese,Non-Vegetarian
+Dish_365,"yogurt, soy sauce, basil, coconut, beans, pork",Japanese,Vegan
+Dish_366,"onion, spinach, beans, carrot, beef, chicken",Chinese,Vegan
+Dish_367,"ginger, coconut, beef, carrot, spinach, onion",Japanese,Vegetarian
+Dish_368,"pork, mint, pepper, beef, lentils, yogurt",Chinese,Vegan
+Dish_369,"lime, ginger, pork, mint, chili",Thai,Non-Vegetarian
+Dish_370,"rice, cheese, beef, ginger, basil, garlic, yogurt",Indian,Vegetarian
+Dish_371,"potato, soy sauce, lentils, yogurt, onion, lime, tofu",Chinese,Vegetarian
+Dish_372,"beans, carrot, mint, noodles, rice, onion",Indian,Non-Vegetarian
+Dish_373,"onion, chili, lentils, spinach, soy sauce",Chinese,Non-Vegetarian
+Dish_374,"spinach, lentils, cheese, yogurt, tomato, rice",French,Vegan
+Dish_375,"noodles, potato, garlic, chicken, pepper",Greek,Vegan
+Dish_376,"tofu, tomato, noodles, chicken",French,Vegetarian
+Dish_377,"noodles, cheese, lime, pork, lentils, soy sauce, carrot",Chinese,Non-Vegetarian
+Dish_378,"coconut, pork, beef, tofu",French,Vegetarian
+Dish_379,"potato, carrot, spinach, onion, beans, chili, garlic",Indian,Vegan
+Dish_380,"coconut, garlic, soy sauce, pepper, lime, mint, noodles",Indian,Non-Vegetarian
+Dish_381,"lime, beans, cheese, chicken, pork, chili",Greek,Non-Vegetarian
+Dish_382,"spinach, cheese, coconut, basil, yogurt, lime",Japanese,Vegetarian
+Dish_383,"tofu, coconut, rice, noodles",Indian,Vegetarian
+Dish_384,"beans, yogurt, lime, pork",Chinese,Non-Vegetarian
+Dish_385,"chili, rice, beef, carrot, coconut, beans, pork",Mexican,Vegetarian
+Dish_386,"pork, mint, yogurt, carrot, lime, tomato",Greek,Non-Vegetarian
+Dish_387,"cheese, spinach, carrot, potato, beef",Japanese,Non-Vegetarian
+Dish_388,"lentils, noodles, ginger, coconut",Italian,Non-Vegetarian
+Dish_389,"carrot, chili, coconut, beans",Japanese,Vegetarian
+Dish_390,"yogurt, chicken, mint, tofu, onion",Greek,Vegan
+Dish_391,"tomato, lentils, potato, spinach, coconut, onion",French,Non-Vegetarian
+Dish_392,"beans, tomato, pork, pepper",Chinese,Vegetarian
+Dish_393,"beans, chicken, noodles, potato, pepper",Chinese,Vegetarian
+Dish_394,"lime, yogurt, chili, tomato, mint, coconut, chicken",French,Vegan
+Dish_395,"lentils, beans, chili, soy sauce, tofu, carrot, onion",Greek,Vegetarian
+Dish_396,"cheese, mint, potato, spinach",Mexican,Non-Vegetarian
+Dish_397,"soy sauce, spinach, beans, lentils",Italian,Vegan
+Dish_398,"rice, basil, garlic, pepper",Italian,Non-Vegetarian
+Dish_399,"beef, tofu, onion, carrot, noodles, coconut",Greek,Non-Vegetarian
+Dish_400,"spinach, ginger, carrot, tomato, garlic, noodles, tofu",Mexican,Vegetarian
+Dish_401,"spinach, onion, noodles, pepper, beef, garlic, soy sauce",Chinese,Vegan
+Dish_402,"tomato, potato, rice, yogurt, chili, cheese, lime",Mexican,Vegan
+Dish_403,"noodles, rice, chicken, ginger, coconut, pork",Mexican,Vegetarian
+Dish_404,"potato, ginger, yogurt, pork, rice, garlic",Greek,Vegan
+Dish_405,"pork, tomato, potato, pepper, onion, mint",Japanese,Vegetarian
+Dish_406,"ginger, mint, noodles, tomato",Italian,Vegan
+Dish_407,"rice, tomato, pork, soy sauce",Mexican,Vegetarian
+Dish_408,"chili, beans, lentils, rice, spinach",Indian,Vegetarian
+Dish_409,"cheese, rice, tofu, coconut, lime, chili",Indian,Non-Vegetarian
+Dish_410,"potato, spinach, beef, basil, chicken",Greek,Non-Vegetarian
+Dish_411,"coconut, spinach, lime, basil, soy sauce",French,Vegetarian
+Dish_412,"yogurt, chili, coconut, pepper",Italian,Vegan
+Dish_413,"lime, tofu, cheese, carrot, lentils, chicken",Greek,Vegetarian
+Dish_414,"basil, mint, chili, beans, soy sauce",Chinese,Vegetarian
+Dish_415,"carrot, mint, cheese, spinach, lime",Thai,Vegan
+Dish_416,"mint, rice, pork, ginger, soy sauce, onion, potato",Mexican,Non-Vegetarian
+Dish_417,"ginger, coconut, noodles, chili, tofu, onion",Italian,Vegetarian
+Dish_418,"potato, carrot, beef, lime, pork, chili",Indian,Vegetarian
+Dish_419,"chicken, beans, lentils, rice, spinach",Indian,Vegetarian
+Dish_420,"carrot, mint, rice, coconut, tomato, lentils, ginger",French,Vegan
+Dish_421,"pepper, onion, carrot, beans",Chinese,Vegetarian
+Dish_422,"rice, pepper, cheese, ginger",Japanese,Vegetarian
+Dish_423,"soy sauce, spinach, basil, yogurt, pork, beans, beef",Mexican,Vegan
+Dish_424,"garlic, pepper, chicken, cheese, ginger, basil, lentils",French,Vegetarian
+Dish_425,"noodles, beef, soy sauce, mint, onion, spinach",Chinese,Non-Vegetarian
+Dish_426,"noodles, tomato, soy sauce, garlic, chili, basil",Italian,Vegetarian
+Dish_427,"lentils, yogurt, tofu, basil, lime, coconut, noodles",Greek,Vegan
+Dish_428,"yogurt, onion, beef, lentils, pork, beans",Mexican,Vegetarian
+Dish_429,"ginger, soy sauce, coconut, chicken, garlic, tofu",Thai,Vegan
+Dish_430,"carrot, mint, pork, potato, lime, chili, beans",Thai,Vegetarian
+Dish_431,"pork, cheese, onion, potato, garlic, chili, ginger",Italian,Vegan
+Dish_432,"spinach, yogurt, coconut, chicken, basil, ginger, lime",Japanese,Vegetarian
+Dish_433,"lentils, lime, tomato, ginger",Mexican,Vegan
+Dish_434,"onion, coconut, noodles, spinach, cheese",Italian,Vegetarian
+Dish_435,"beans, coconut, mint, basil, pepper, tomato",Indian,Vegan
+Dish_436,"yogurt, coconut, beans, lime, noodles",Mexican,Non-Vegetarian
+Dish_437,"beans, chicken, tofu, lime, carrot",French,Vegan
+Dish_438,"lentils, basil, rice, garlic, pork",Italian,Vegan
+Dish_439,"tofu, cheese, noodles, lentils",Japanese,Vegan
+Dish_440,"chili, beef, mint, potato, lentils",French,Vegetarian
+Dish_441,"ginger, coconut, chili, pepper, tomato, yogurt",Chinese,Vegetarian
+Dish_442,"pork, spinach, yogurt, chicken",Italian,Non-Vegetarian
+Dish_443,"tomato, coconut, ginger, chicken, potato, beef, cheese",Thai,Vegan
+Dish_444,"beef, ginger, lentils, coconut, pork, carrot, noodles",Italian,Vegan
+Dish_445,"pepper, beef, tomato, ginger, cheese",Greek,Vegetarian
+Dish_446,"pork, beef, noodles, rice, yogurt, tofu",Thai,Vegan
+Dish_447,"yogurt, lentils, carrot, pork",Indian,Non-Vegetarian
+Dish_448,"chili, mint, tomato, carrot, noodles",Italian,Vegetarian
+Dish_449,"soy sauce, pork, cheese, tomato, mint",Japanese,Vegan
+Dish_450,"garlic, chili, soy sauce, rice",Greek,Non-Vegetarian
+Dish_451,"beans, rice, basil, lentils, ginger, mint, onion",Italian,Vegetarian
+Dish_452,"chicken, soy sauce, beans, pepper, potato, mint, carrot",Mexican,Vegetarian
+Dish_453,"ginger, basil, soy sauce, chili, beans, tofu, onion",Mexican,Vegan
+Dish_454,"chili, basil, ginger, potato, tofu, carrot",Thai,Vegetarian
+Dish_455,"pepper, lentils, potato, soy sauce, beans, tofu",Mexican,Non-Vegetarian
+Dish_456,"noodles, rice, chicken, tofu, potato, carrot",Italian,Vegetarian
+Dish_457,"tofu, noodles, garlic, lentils, mint, chicken",Mexican,Non-Vegetarian
+Dish_458,"mint, tofu, cheese, ginger, chicken, lentils, tomato",Greek,Vegetarian
+Dish_459,"carrot, basil, chili, pepper",Indian,Non-Vegetarian
+Dish_460,"chicken, lentils, tomato, soy sauce, chili",Indian,Vegetarian
+Dish_461,"tofu, carrot, rice, chili, mint, cheese, potato",Italian,Non-Vegetarian
+Dish_462,"ginger, rice, chicken, basil",French,Vegan
+Dish_463,"soy sauce, pepper, lentils, coconut, onion, chili, yogurt",Italian,Non-Vegetarian
+Dish_464,"yogurt, spinach, soy sauce, coconut",Japanese,Non-Vegetarian
+Dish_465,"coconut, carrot, pork, beans, noodles, rice, cheese",Japanese,Vegan
+Dish_466,"basil, chili, onion, yogurt",French,Vegetarian
+Dish_467,"coconut, yogurt, pepper, cheese, lime",Japanese,Non-Vegetarian
+Dish_468,"beans, yogurt, mint, noodles",Chinese,Vegetarian
+Dish_469,"onion, ginger, potato, soy sauce, lime",Thai,Vegetarian
+Dish_470,"potato, spinach, beans, carrot, cheese, noodles, chicken",Greek,Vegetarian
+Dish_471,"ginger, coconut, spinach, tofu, basil",Indian,Vegetarian
+Dish_472,"onion, pork, tomato, beans, garlic",Greek,Non-Vegetarian
+Dish_473,"yogurt, pork, chicken, pepper, carrot",French,Vegan
+Dish_474,"cheese, carrot, basil, noodles",Thai,Vegan
+Dish_475,"potato, chicken, tofu, pepper",Indian,Vegan
+Dish_476,"lentils, cheese, yogurt, chili, carrot, mint",Mexican,Non-Vegetarian
+Dish_477,"carrot, lime, tomato, basil, chicken, coconut, lentils",Indian,Vegan
+Dish_478,"onion, ginger, noodles, pepper, coconut, pork",Japanese,Vegan
+Dish_479,"chili, lime, cheese, beef, carrot, tomato",Indian,Non-Vegetarian
+Dish_480,"pork, mint, chili, noodles, garlic, onion",Mexican,Non-Vegetarian
+Dish_481,"tomato, chicken, spinach, ginger",Thai,Vegetarian
+Dish_482,"coconut, noodles, beans, lime",French,Non-Vegetarian
+Dish_483,"ginger, soy sauce, cheese, chicken",Greek,Non-Vegetarian
+Dish_484,"noodles, lentils, beans, onion, lime, mint, chicken",Mexican,Vegetarian
+Dish_485,"beef, noodles, onion, mint",Indian,Vegan
+Dish_486,"chicken, mint, yogurt, rice, onion, spinach",Indian,Vegan
+Dish_487,"chili, rice, tomato, pork, mint",Greek,Non-Vegetarian
+Dish_488,"lime, pork, tofu, lentils, ginger",Greek,Non-Vegetarian
+Dish_489,"chicken, garlic, basil, ginger, yogurt, spinach, beans",Greek,Vegan
+Dish_490,"spinach, yogurt, soy sauce, carrot, lime",Italian,Non-Vegetarian
+Dish_491,"carrot, mint, basil, coconut, cheese",Thai,Non-Vegetarian
+Dish_492,"pork, beans, onion, lime, carrot, ginger, cheese",Mexican,Vegan
+Dish_493,"spinach, pepper, ginger, onion, tomato, cheese",Italian,Non-Vegetarian
+Dish_494,"tofu, tomato, chicken, pepper, noodles, mint, beans",French,Vegetarian
+Dish_495,"chicken, garlic, basil, rice, beans",Greek,Non-Vegetarian
+Dish_496,"pork, onion, coconut, beef, tomato, chili",Japanese,Vegan
+Dish_497,"noodles, coconut, soy sauce, chicken, spinach",Italian,Vegetarian
+Dish_498,"ginger, basil, spinach, lime, tofu, pork, coconut",French,Vegan
+Dish_499,"tofu, potato, coconut, pepper, noodles, yogurt",Chinese,Non-Vegetarian
+Dish_500,"soy sauce, tomato, chili, beef, rice, yogurt, tofu",Chinese,Vegetarian
+Dish_501,"soy sauce, pepper, chili, cheese, spinach",Indian,Vegan
+Dish_502,"ginger, noodles, soy sauce, beans, beef, carrot, lentils",Indian,Vegetarian
+Dish_503,"carrot, beef, chili, pepper, ginger, tomato, rice",Chinese,Non-Vegetarian
+Dish_504,"lentils, cheese, tomato, lime, onion, yogurt",Thai,Vegetarian
+Dish_505,"soy sauce, lime, ginger, yogurt, noodles, potato, carrot",Greek,Vegetarian
+Dish_506,"tomato, noodles, spinach, chicken, onion",Italian,Non-Vegetarian
+Dish_507,"lentils, cheese, onion, beans, pork, spinach",Indian,Non-Vegetarian
+Dish_508,"cheese, mint, noodles, tofu, chili, ginger",French,Vegetarian
+Dish_509,"lentils, mint, lime, pepper, beans",Thai,Vegan
+Dish_510,"spinach, carrot, lentils, coconut, beef",Greek,Vegetarian
+Dish_511,"soy sauce, chicken, beef, pepper, basil, pork",Greek,Vegan
+Dish_512,"soy sauce, carrot, beef, mint",Chinese,Non-Vegetarian
+Dish_513,"soy sauce, tofu, beef, garlic, yogurt",Italian,Non-Vegetarian
+Dish_514,"cheese, coconut, rice, lentils",Japanese,Vegan
+Dish_515,"chicken, soy sauce, coconut, tofu, basil",Japanese,Vegan
+Dish_516,"tomato, spinach, mint, carrot",Italian,Non-Vegetarian
+Dish_517,"spinach, coconut, pork, tofu, lime, carrot",Indian,Vegan
+Dish_518,"onion, basil, chili, garlic, potato",Mexican,Vegetarian
+Dish_519,"chicken, basil, carrot, lime, onion, soy sauce",Mexican,Vegan
+Dish_520,"beans, tofu, rice, noodles, soy sauce",Italian,Vegan
+Dish_521,"spinach, ginger, tomato, potato",Chinese,Vegetarian
+Dish_522,"garlic, mint, beans, lime, tomato, noodles",Thai,Vegetarian
+Dish_523,"garlic, potato, lime, basil, coconut, pork, chili",French,Vegan
+Dish_524,"cheese, onion, beans, spinach",Mexican,Vegan
+Dish_525,"cheese, chicken, potato, yogurt, garlic, lentils",Mexican,Vegetarian
+Dish_526,"chili, soy sauce, garlic, cheese, ginger",French,Vegetarian
+Dish_527,"beef, chili, pork, lentils, yogurt, noodles, ginger",Japanese,Vegan
+Dish_528,"spinach, lentils, pepper, cheese, chili",Thai,Vegetarian
+Dish_529,"ginger, lentils, chili, basil, soy sauce",Indian,Vegan
+Dish_530,"ginger, rice, coconut, chicken, onion, tofu",Italian,Vegan
+Dish_531,"noodles, yogurt, chili, ginger",Greek,Vegetarian
+Dish_532,"spinach, rice, tomato, coconut, lentils, cheese",Thai,Non-Vegetarian
+Dish_533,"rice, coconut, beef, pepper, beans, carrot",Greek,Non-Vegetarian
+Dish_534,"noodles, pepper, tofu, beef, cheese, coconut, ginger",Thai,Vegetarian
+Dish_535,"tomato, mint, lime, lentils, noodles",Mexican,Vegetarian
+Dish_536,"beef, lime, yogurt, garlic, mint, chicken, noodles",Italian,Vegetarian
+Dish_537,"mint, garlic, beans, pork, tofu, yogurt, soy sauce",French,Vegan
+Dish_538,"chicken, tomato, garlic, yogurt, rice, noodles, beef",Greek,Vegetarian
+Dish_539,"mint, basil, ginger, pork, chicken, carrot, coconut",Greek,Vegetarian
+Dish_540,"ginger, soy sauce, potato, beef, rice",Italian,Vegan
+Dish_541,"potato, tomato, yogurt, basil, coconut, chicken, mint",French,Vegetarian
+Dish_542,"mint, onion, chicken, tomato",French,Vegetarian
+Dish_543,"lime, mint, noodles, beef, pepper",Mexican,Vegetarian
+Dish_544,"pepper, basil, yogurt, tomato, chicken, pork, beans",Mexican,Vegetarian
+Dish_545,"yogurt, soy sauce, coconut, ginger, potato, chicken",Chinese,Vegan
+Dish_546,"beef, onion, coconut, lentils",Greek,Non-Vegetarian
+Dish_547,"ginger, pepper, lime, rice, coconut, beans",Indian,Non-Vegetarian
+Dish_548,"noodles, coconut, pepper, tofu, mint, lime",Indian,Vegetarian
+Dish_549,"pepper, chicken, yogurt, pork, lentils, lime",Thai,Vegan
+Dish_550,"tomato, yogurt, ginger, beef, soy sauce",Greek,Vegetarian
+Dish_551,"beans, ginger, tofu, garlic",Mexican,Non-Vegetarian
+Dish_552,"beans, mint, cheese, tomato",Thai,Vegan
+Dish_553,"onion, chicken, coconut, beef, mint",French,Non-Vegetarian
+Dish_554,"mint, spinach, cheese, yogurt, tofu, tomato, chili",Japanese,Vegetarian
+Dish_555,"potato, carrot, coconut, yogurt, lime, cheese",Thai,Vegan
+Dish_556,"pepper, lentils, soy sauce, chili, mint",Indian,Non-Vegetarian
+Dish_557,"pepper, lime, beans, rice, ginger",Greek,Vegetarian
+Dish_558,"noodles, chicken, ginger, pepper, chili, carrot, yogurt",Chinese,Vegan
+Dish_559,"mint, beans, garlic, onion, tomato, coconut",Japanese,Non-Vegetarian
+Dish_560,"potato, yogurt, chili, spinach, mint",French,Vegetarian
+Dish_561,"spinach, lime, rice, basil, soy sauce, ginger, yogurt",Thai,Vegetarian
+Dish_562,"spinach, tofu, beef, cheese, basil, rice, carrot",Thai,Non-Vegetarian
+Dish_563,"chili, tofu, lentils, pork, carrot",Indian,Vegetarian
+Dish_564,"pork, tofu, basil, beef, beans, potato, chicken",Japanese,Non-Vegetarian
+Dish_565,"yogurt, chicken, basil, lentils, onion",Italian,Non-Vegetarian
+Dish_566,"cheese, ginger, carrot, tofu, garlic",Mexican,Vegetarian
+Dish_567,"lime, spinach, beef, lentils, potato",Greek,Non-Vegetarian
+Dish_568,"potato, spinach, soy sauce, chicken, tomato, pork, beef",Japanese,Vegetarian
+Dish_569,"garlic, noodles, tomato, pepper, mint, tofu, carrot",Indian,Non-Vegetarian
+Dish_570,"pepper, lentils, noodles, garlic, carrot",Chinese,Vegetarian
+Dish_571,"rice, beef, pork, chicken, garlic, tomato, ginger",Mexican,Vegan
+Dish_572,"beef, lentils, potato, lime",Japanese,Vegan
+Dish_573,"beef, carrot, lentils, noodles",Indian,Non-Vegetarian
+Dish_574,"potato, basil, rice, beans, carrot",Chinese,Vegetarian
+Dish_575,"beans, coconut, mint, chicken, potato, ginger",Italian,Vegan
+Dish_576,"tofu, soy sauce, chicken, spinach, carrot",Italian,Non-Vegetarian
+Dish_577,"garlic, chicken, onion, tomato, spinach, chili, basil",Italian,Vegetarian
+Dish_578,"basil, tofu, carrot, cheese, yogurt, potato",Mexican,Vegetarian
+Dish_579,"noodles, rice, beef, spinach, lentils, soy sauce, pepper",French,Vegan
+Dish_580,"coconut, garlic, chili, yogurt, tomato, spinach",Greek,Vegan
+Dish_581,"spinach, tomato, pepper, lentils, rice, soy sauce, chicken",French,Vegetarian
+Dish_582,"ginger, tofu, pork, beef",Thai,Vegetarian
+Dish_583,"potato, rice, tomato, ginger, pepper, onion, tofu",French,Vegetarian
+Dish_584,"beef, beans, rice, pepper, lentils, yogurt, potato",Mexican,Non-Vegetarian
+Dish_585,"rice, cheese, carrot, coconut, noodles, soy sauce, beef",Greek,Vegetarian
+Dish_586,"chili, carrot, noodles, pork, beef, yogurt",Japanese,Non-Vegetarian
+Dish_587,"rice, soy sauce, pork, lentils, noodles",Chinese,Vegan
+Dish_588,"ginger, pepper, lime, tomato, noodles, chili, beef",Italian,Vegan
+Dish_589,"noodles, onion, soy sauce, lentils",French,Vegetarian
+Dish_590,"mint, beef, noodles, pepper, basil, coconut, lentils",Mexican,Non-Vegetarian
+Dish_591,"soy sauce, pepper, chicken, coconut, tofu",Thai,Non-Vegetarian
+Dish_592,"ginger, lentils, cheese, lime, pork, mint, coconut",Indian,Non-Vegetarian
+Dish_593,"beans, beef, garlic, carrot, noodles",Japanese,Non-Vegetarian
+Dish_594,"yogurt, lentils, noodles, beef, lime, onion, chili",Chinese,Vegan
+Dish_595,"tomato, spinach, carrot, pork, noodles, chicken",Italian,Vegan
+Dish_596,"lentils, garlic, noodles, onion",Mexican,Non-Vegetarian
+Dish_597,"tofu, chicken, lentils, ginger",Mexican,Non-Vegetarian
+Dish_598,"lentils, spinach, pork, coconut, soy sauce",French,Vegetarian
+Dish_599,"basil, tomato, pepper, onion",Italian,Vegan
+Dish_600,"chili, noodles, coconut, lentils, rice, potato, onion",Italian,Vegan
+Dish_601,"beans, yogurt, onion, potato, lentils, basil",Chinese,Non-Vegetarian
+Dish_602,"tomato, pork, beans, carrot, basil, tofu, chili",Italian,Vegan
+Dish_603,"beef, pepper, rice, beans",Greek,Vegetarian
+Dish_604,"pepper, pork, noodles, onion, potato, soy sauce, beans",Indian,Vegetarian
+Dish_605,"spinach, tofu, yogurt, chicken, pork, beef, potato",French,Vegetarian
+Dish_606,"pork, lentils, beef, beans",French,Non-Vegetarian
+Dish_607,"carrot, ginger, spinach, soy sauce",Indian,Vegetarian
+Dish_608,"garlic, lentils, pork, rice, chili",Chinese,Vegan
+Dish_609,"soy sauce, spinach, lime, beef, noodles",Mexican,Vegan
+Dish_610,"garlic, spinach, potato, chili, coconut, carrot",Greek,Non-Vegetarian
+Dish_611,"cheese, carrot, beef, lime, potato",Greek,Vegan
+Dish_612,"cheese, noodles, beans, potato, carrot",Mexican,Vegetarian
+Dish_613,"onion, pork, yogurt, potato, mint, ginger",French,Vegetarian
+Dish_614,"spinach, lentils, noodles, tomato, chili",Chinese,Vegan
+Dish_615,"noodles, coconut, carrot, spinach, lentils, beef, basil",Mexican,Non-Vegetarian
+Dish_616,"lentils, garlic, tofu, mint, soy sauce, beef, lime",Thai,Non-Vegetarian
+Dish_617,"chili, garlic, chicken, basil, tomato, pepper, yogurt",French,Vegetarian
+Dish_618,"yogurt, basil, onion, noodles",Greek,Vegan
+Dish_619,"noodles, tomato, yogurt, pork, mint",Thai,Vegan
+Dish_620,"lentils, pork, lime, pepper, cheese, spinach, chili",French,Vegetarian
+Dish_621,"basil, onion, pork, potato, tofu, carrot",French,Non-Vegetarian
+Dish_622,"mint, cheese, lime, beef",Japanese,Vegan
+Dish_623,"tomato, yogurt, pepper, carrot, chicken, onion, rice",Greek,Vegan
+Dish_624,"beef, basil, pepper, yogurt",Indian,Vegan
+Dish_625,"mint, onion, spinach, cheese, carrot, tomato, lime",Japanese,Vegetarian
+Dish_626,"ginger, coconut, mint, lime, cheese, beans",Greek,Vegetarian
+Dish_627,"soy sauce, ginger, pepper, potato, rice, tomato, yogurt",Chinese,Non-Vegetarian
+Dish_628,"garlic, chili, beef, potato, cheese",Indian,Vegan
+Dish_629,"spinach, onion, garlic, lime, tofu, cheese",French,Vegetarian
+Dish_630,"mint, ginger, beef, soy sauce, tomato",Greek,Vegan
+Dish_631,"tomato, cheese, chili, potato",Indian,Non-Vegetarian
+Dish_632,"lime, noodles, tomato, coconut",Mexican,Vegan
+Dish_633,"garlic, ginger, rice, lime, coconut, spinach, cheese",Chinese,Vegetarian
+Dish_634,"beans, potato, tofu, chili, chicken",Italian,Vegan
+Dish_635,"chili, carrot, coconut, mint",Chinese,Vegetarian
+Dish_636,"ginger, basil, tomato, pepper, beef, onion, garlic",Indian,Non-Vegetarian
+Dish_637,"beans, pork, spinach, yogurt, noodles",Chinese,Vegan
+Dish_638,"rice, ginger, garlic, tomato, soy sauce, beans, basil",Thai,Vegan
+Dish_639,"mint, tofu, pork, potato",Thai,Non-Vegetarian
+Dish_640,"mint, chicken, yogurt, cheese, noodles, chili",Mexican,Vegan
+Dish_641,"tomato, soy sauce, beef, garlic, carrot, beans",French,Non-Vegetarian
+Dish_642,"beans, potato, carrot, spinach, pepper",French,Non-Vegetarian
+Dish_643,"cheese, coconut, chicken, rice, beef, beans, potato",Greek,Vegan
+Dish_644,"noodles, pepper, cheese, soy sauce, garlic",Indian,Vegan
+Dish_645,"noodles, pork, soy sauce, beef, lentils",Japanese,Vegetarian
+Dish_646,"pepper, garlic, tofu, rice",Greek,Vegan
+Dish_647,"carrot, chicken, pepper, lime, mint",Greek,Non-Vegetarian
+Dish_648,"basil, tofu, potato, rice",Indian,Non-Vegetarian
+Dish_649,"mint, tofu, lentils, beef, spinach, potato",Mexican,Vegetarian
+Dish_650,"chili, carrot, yogurt, soy sauce, pork",Chinese,Vegetarian
+Dish_651,"chicken, yogurt, rice, cheese, basil",Thai,Vegan
+Dish_652,"cheese, garlic, pork, ginger, onion",Chinese,Non-Vegetarian
+Dish_653,"chili, chicken, potato, yogurt, beef, soy sauce",Thai,Vegetarian
+Dish_654,"soy sauce, carrot, onion, cheese",Mexican,Non-Vegetarian
+Dish_655,"carrot, soy sauce, rice, pepper, spinach, chili",Japanese,Vegetarian
+Dish_656,"soy sauce, noodles, coconut, potato, tofu, beans",Thai,Vegan
+Dish_657,"noodles, beans, chili, tofu, garlic",Indian,Vegan
+Dish_658,"soy sauce, lentils, tomato, beans, garlic, potato, pepper",Mexican,Non-Vegetarian
+Dish_659,"rice, ginger, pepper, spinach",French,Non-Vegetarian
+Dish_660,"beef, cheese, tofu, chicken, rice, pepper, chili",Indian,Vegan
+Dish_661,"lime, tomato, cheese, lentils, spinach",Thai,Vegetarian
+Dish_662,"rice, coconut, lentils, pork, ginger, yogurt, beef",Greek,Vegan
+Dish_663,"beans, lentils, soy sauce, yogurt, beef, carrot",Thai,Vegan
+Dish_664,"coconut, pork, soy sauce, mint, basil",Italian,Non-Vegetarian
+Dish_665,"tomato, onion, carrot, chili",Italian,Vegan
+Dish_666,"mint, soy sauce, lime, tomato, ginger",Japanese,Vegetarian
+Dish_667,"lime, soy sauce, mint, potato, lentils, yogurt, pepper",Chinese,Vegan
+Dish_668,"ginger, beans, lime, beef, potato",Indian,Vegetarian
+Dish_669,"mint, ginger, chicken, onion, yogurt, noodles",Greek,Non-Vegetarian
+Dish_670,"tofu, lentils, basil, ginger",Mexican,Vegan
+Dish_671,"yogurt, tomato, pepper, lentils, chicken, soy sauce",French,Vegetarian
+Dish_672,"cheese, carrot, basil, lime, chili, onion, pepper",Mexican,Vegetarian
+Dish_673,"carrot, onion, beef, ginger, tomato, tofu",Japanese,Vegan
+Dish_674,"pepper, noodles, lime, garlic, spinach",Mexican,Non-Vegetarian
+Dish_675,"yogurt, potato, onion, chili",Chinese,Vegan
+Dish_676,"tofu, chili, lentils, pepper",Indian,Non-Vegetarian
+Dish_677,"coconut, carrot, beef, onion",French,Vegetarian
+Dish_678,"carrot, onion, lime, pepper, potato, yogurt",Greek,Vegan
+Dish_679,"chicken, carrot, lime, cheese",Italian,Non-Vegetarian
+Dish_680,"chicken, beef, rice, yogurt, potato, spinach, ginger",French,Non-Vegetarian
+Dish_681,"pork, ginger, pepper, soy sauce, rice, mint, tomato",Greek,Non-Vegetarian
+Dish_682,"mint, coconut, potato, rice",Indian,Vegetarian
+Dish_683,"noodles, carrot, rice, lime, yogurt, spinach",Japanese,Vegetarian
+Dish_684,"garlic, potato, basil, chicken, cheese, mint",Mexican,Non-Vegetarian
+Dish_685,"lentils, tofu, rice, yogurt, spinach, pepper, beef",French,Vegan
+Dish_686,"yogurt, pepper, ginger, pork, tofu, potato",Indian,Vegan
+Dish_687,"pepper, carrot, spinach, noodles, chili, chicken, lentils",Japanese,Vegan
+Dish_688,"soy sauce, yogurt, noodles, pepper",Indian,Non-Vegetarian
+Dish_689,"basil, tofu, chili, carrot, spinach, soy sauce, yogurt",Indian,Non-Vegetarian
+Dish_690,"cheese, onion, chicken, potato, carrot, spinach, pork",Japanese,Vegetarian
+Dish_691,"beef, pork, rice, cheese, ginger, chili",Mexican,Vegetarian
+Dish_692,"carrot, tomato, tofu, chicken, spinach, yogurt",Chinese,Non-Vegetarian
+Dish_693,"ginger, potato, beans, cheese, coconut, carrot",Thai,Non-Vegetarian
+Dish_694,"noodles, chicken, tomato, carrot, mint",French,Vegetarian
+Dish_695,"mint, chicken, beef, carrot",Indian,Vegetarian
+Dish_696,"chicken, basil, mint, beans",Italian,Vegan
+Dish_697,"pork, lime, soy sauce, ginger, chili",Greek,Vegan
+Dish_698,"onion, garlic, carrot, chicken",Thai,Non-Vegetarian
+Dish_699,"chicken, lime, lentils, rice, tomato, tofu",Indian,Vegan
+Dish_700,"coconut, mint, rice, basil, noodles, tomato",Mexican,Vegetarian
+Dish_701,"chili, lime, cheese, pork, chicken, noodles",Japanese,Non-Vegetarian
+Dish_702,"spinach, beans, beef, chicken, coconut, tofu, pork",Chinese,Vegetarian
+Dish_703,"spinach, cheese, onion, pepper",Japanese,Vegan
+Dish_704,"soy sauce, potato, lime, carrot, basil, cheese",French,Vegetarian
+Dish_705,"soy sauce, garlic, lentils, beef, beans, pepper, ginger",Greek,Vegetarian
+Dish_706,"carrot, pork, lime, onion, beef, chicken, rice",Mexican,Vegan
+Dish_707,"pork, lentils, cheese, basil",Japanese,Vegan
+Dish_708,"soy sauce, carrot, noodles, lime, potato",Thai,Vegetarian
+Dish_709,"ginger, tofu, pork, garlic, beans, lime",Greek,Vegetarian
+Dish_710,"chili, carrot, tomato, ginger, soy sauce",Italian,Vegan
+Dish_711,"ginger, carrot, lentils, noodles, rice",Greek,Vegan
+Dish_712,"tofu, beans, ginger, onion, cheese",Indian,Vegan
+Dish_713,"tofu, carrot, beef, basil, pepper, soy sauce",Thai,Vegan
+Dish_714,"lentils, noodles, chili, tomato, pepper, onion",Italian,Vegan
+Dish_715,"lentils, soy sauce, tofu, tomato",Italian,Vegan
+Dish_716,"basil, chicken, beans, beef",French,Vegetarian
+Dish_717,"lime, soy sauce, carrot, onion, pepper, chicken",Thai,Vegetarian
+Dish_718,"noodles, basil, chicken, lime, tofu",Thai,Vegetarian
+Dish_719,"tofu, mint, onion, noodles",Japanese,Vegetarian
+Dish_720,"potato, tomato, ginger, yogurt, beef, noodles, spinach",Indian,Vegetarian
+Dish_721,"spinach, cheese, pepper, potato, mint, coconut, chili",Mexican,Non-Vegetarian
+Dish_722,"garlic, carrot, lime, lentils",Japanese,Vegan
+Dish_723,"garlic, soy sauce, coconut, potato",Mexican,Non-Vegetarian
+Dish_724,"pepper, chicken, ginger, onion, garlic, noodles, lentils",Japanese,Vegetarian
+Dish_725,"pork, noodles, potato, coconut",Chinese,Non-Vegetarian
+Dish_726,"noodles, pepper, carrot, rice, potato",Thai,Vegan
+Dish_727,"soy sauce, chili, spinach, chicken",Mexican,Non-Vegetarian
+Dish_728,"tomato, chili, coconut, pork, tofu, ginger, chicken",Japanese,Vegan
+Dish_729,"beef, soy sauce, lentils, potato",Japanese,Vegetarian
+Dish_730,"lentils, lime, noodles, spinach, pork, chicken, soy sauce",Japanese,Vegetarian
+Dish_731,"lentils, potato, pepper, mint, coconut, chicken, tofu",French,Non-Vegetarian
+Dish_732,"beans, lime, chili, beef, pork",French,Vegetarian
+Dish_733,"ginger, basil, tofu, beef, soy sauce",Greek,Non-Vegetarian
+Dish_734,"carrot, noodles, pepper, mint, pork, basil, onion",Indian,Vegan
+Dish_735,"lime, ginger, coconut, rice, carrot",Japanese,Vegan
+Dish_736,"noodles, beef, pork, beans, spinach, basil",Chinese,Vegetarian
+Dish_737,"beef, ginger, chili, pork, coconut",Indian,Vegetarian
+Dish_738,"spinach, tofu, chili, onion, coconut, rice",Greek,Vegan
+Dish_739,"tofu, basil, noodles, chicken",Mexican,Vegan
+Dish_740,"chicken, basil, spinach, pork, chili",Thai,Vegan
+Dish_741,"lentils, soy sauce, mint, beef, pepper",Italian,Non-Vegetarian
+Dish_742,"rice, carrot, coconut, soy sauce, noodles, cheese",Greek,Vegan
+Dish_743,"pork, chicken, chili, beans, carrot, cheese",Thai,Vegan
+Dish_744,"potato, onion, spinach, rice, noodles",French,Vegan
+Dish_745,"tomato, onion, lime, beef, yogurt, spinach",Japanese,Vegetarian
+Dish_746,"beef, noodles, yogurt, chicken, pepper, spinach",Greek,Vegan
+Dish_747,"garlic, rice, lentils, carrot",Mexican,Vegetarian
+Dish_748,"garlic, spinach, beans, basil",Indian,Vegan
+Dish_749,"pork, chicken, onion, ginger",Mexican,Vegan
+Dish_750,"lentils, basil, pork, beans",Mexican,Vegetarian
+Dish_751,"noodles, beef, cheese, chili, carrot, onion",Indian,Vegan
+Dish_752,"basil, onion, ginger, coconut, pepper",Italian,Non-Vegetarian
+Dish_753,"yogurt, tomato, soy sauce, onion, beans",Italian,Vegan
+Dish_754,"pepper, carrot, yogurt, tofu, tomato, pork, rice",Indian,Vegan
+Dish_755,"soy sauce, noodles, beans, garlic, lentils, yogurt, coconut",Italian,Non-Vegetarian
+Dish_756,"potato, lentils, beans, soy sauce",Chinese,Non-Vegetarian
+Dish_757,"cheese, potato, pork, chili, ginger, yogurt, mint",Greek,Non-Vegetarian
+Dish_758,"tomato, coconut, potato, cheese",Indian,Vegetarian
+Dish_759,"potato, pork, yogurt, tomato, coconut, spinach",Italian,Vegetarian
+Dish_760,"carrot, cheese, potato, basil, garlic",Italian,Vegetarian
+Dish_761,"mint, pepper, basil, ginger, coconut, cheese, beef",Japanese,Vegan
+Dish_762,"mint, soy sauce, yogurt, cheese",Indian,Non-Vegetarian
+Dish_763,"pork, beef, chicken, soy sauce, rice",Greek,Non-Vegetarian
+Dish_764,"beans, coconut, lime, basil",French,Vegetarian
+Dish_765,"pepper, yogurt, lentils, lime",Japanese,Non-Vegetarian
+Dish_766,"carrot, ginger, chicken, tofu, pork, onion",Indian,Vegetarian
+Dish_767,"lime, chili, cheese, chicken",French,Vegetarian
+Dish_768,"chicken, chili, pork, pepper, soy sauce, rice",Mexican,Non-Vegetarian
+Dish_769,"cheese, coconut, spinach, garlic, ginger, lime, tomato",Thai,Non-Vegetarian
+Dish_770,"cheese, beef, garlic, soy sauce",Indian,Non-Vegetarian
+Dish_771,"chili, spinach, carrot, lentils",Indian,Vegan
+Dish_772,"soy sauce, cheese, potato, mint",Mexican,Vegetarian
+Dish_773,"potato, lime, onion, beef, ginger, spinach, basil",Japanese,Vegan
+Dish_774,"potato, pork, mint, yogurt, ginger, rice",Greek,Non-Vegetarian
+Dish_775,"pork, garlic, chicken, yogurt, coconut, tofu, tomato",French,Non-Vegetarian
+Dish_776,"pepper, basil, ginger, potato, soy sauce, onion, coconut",French,Non-Vegetarian
+Dish_777,"chili, pork, rice, basil, soy sauce",Mexican,Non-Vegetarian
+Dish_778,"soy sauce, rice, lentils, pepper, noodles, yogurt",Greek,Vegetarian
+Dish_779,"chili, lentils, lime, soy sauce, tomato, mint",Indian,Non-Vegetarian
+Dish_780,"yogurt, carrot, cheese, chili, soy sauce, rice, beef",Thai,Non-Vegetarian
+Dish_781,"garlic, coconut, pepper, ginger, basil",Greek,Vegetarian
+Dish_782,"garlic, lentils, potato, carrot, tofu, noodles",French,Vegetarian
+Dish_783,"soy sauce, ginger, onion, chicken, lime, mint",Greek,Vegan
+Dish_784,"beans, lime, cheese, rice, onion, pork",Chinese,Vegetarian
+Dish_785,"basil, ginger, pepper, soy sauce, spinach",French,Vegan
+Dish_786,"ginger, noodles, lentils, soy sauce, chili, carrot, yogurt",Mexican,Vegetarian
+Dish_787,"coconut, spinach, mint, yogurt, cheese, beans",French,Vegetarian
+Dish_788,"cheese, coconut, lentils, soy sauce, carrot",Greek,Vegan
+Dish_789,"rice, mint, carrot, tomato",Mexican,Vegetarian
+Dish_790,"spinach, ginger, beans, garlic",Thai,Vegan
+Dish_791,"beef, rice, potato, ginger, tofu, spinach, chili",Mexican,Non-Vegetarian
+Dish_792,"chicken, ginger, pepper, soy sauce",Italian,Non-Vegetarian
+Dish_793,"tofu, carrot, beef, garlic, pepper, mint",Chinese,Vegan
+Dish_794,"rice, chili, soy sauce, pork, coconut, pepper, onion",Japanese,Non-Vegetarian
+Dish_795,"garlic, ginger, beans, beef, pork, potato, lime",Greek,Vegan
+Dish_796,"noodles, spinach, cheese, ginger, rice",Chinese,Non-Vegetarian
+Dish_797,"beef, carrot, potato, lentils, mint, rice",Chinese,Vegetarian
+Dish_798,"tomato, soy sauce, cheese, beef, tofu, noodles, rice",Thai,Non-Vegetarian
+Dish_799,"garlic, soy sauce, rice, lentils, noodles",Japanese,Vegan
+Dish_800,"cheese, pepper, noodles, spinach, basil",Mexican,Non-Vegetarian
+Dish_801,"chicken, pork, lime, pepper",Indian,Vegetarian
+Dish_802,"garlic, mint, tomato, carrot",Thai,Non-Vegetarian
+Dish_803,"beans, pork, lentils, garlic, spinach, ginger, pepper",Mexican,Vegetarian
+Dish_804,"chili, onion, cheese, tomato, yogurt, spinach, lime",Thai,Vegan
+Dish_805,"lime, pork, noodles, chili, pepper, chicken, soy sauce",French,Vegan
+Dish_806,"rice, tomato, soy sauce, spinach, lentils",French,Non-Vegetarian
+Dish_807,"noodles, rice, chicken, lime, basil",Italian,Vegan
+Dish_808,"rice, ginger, beef, spinach, noodles, tomato, carrot",French,Vegan
+Dish_809,"coconut, pepper, potato, basil, spinach, tofu, noodles",Japanese,Vegan
+Dish_810,"lime, potato, ginger, rice",Japanese,Vegan
+Dish_811,"tofu, chili, rice, chicken, ginger",Thai,Non-Vegetarian
+Dish_812,"chili, soy sauce, coconut, garlic, pepper, ginger",Chinese,Non-Vegetarian
+Dish_813,"spinach, noodles, garlic, tomato, pork, basil, tofu",Chinese,Non-Vegetarian
+Dish_814,"mint, potato, coconut, noodles, pepper, garlic",Indian,Vegetarian
+Dish_815,"garlic, rice, carrot, coconut, tomato, beef, soy sauce",French,Vegetarian
+Dish_816,"pepper, lime, beans, tofu, tomato",Chinese,Vegan
+Dish_817,"potato, beef, tomato, noodles, ginger, basil, rice",French,Non-Vegetarian
+Dish_818,"ginger, mint, pork, tofu, pepper, onion",Japanese,Non-Vegetarian
+Dish_819,"beef, pepper, carrot, yogurt, basil, cheese, spinach",French,Vegetarian
+Dish_820,"basil, soy sauce, lime, onion, chili, beans",Thai,Vegan
+Dish_821,"yogurt, cheese, pepper, rice, beans, tomato",Indian,Non-Vegetarian
+Dish_822,"noodles, ginger, lime, onion",Indian,Non-Vegetarian
+Dish_823,"rice, beef, pork, coconut",Indian,Non-Vegetarian
+Dish_824,"tofu, lentils, garlic, tomato, pork",Indian,Non-Vegetarian
+Dish_825,"beans, spinach, ginger, lime, pepper, pork",Chinese,Non-Vegetarian
+Dish_826,"pork, carrot, garlic, soy sauce, beef, tomato, pepper",Mexican,Vegetarian
+Dish_827,"chili, lentils, cheese, rice, tomato",French,Non-Vegetarian
+Dish_828,"tofu, carrot, mint, beans, potato",Chinese,Vegan
+Dish_829,"rice, garlic, lime, cheese, tofu, pepper, lentils",Chinese,Non-Vegetarian
+Dish_830,"ginger, mint, basil, chili, cheese, pork",French,Vegan
+Dish_831,"pepper, chili, rice, lime, ginger, chicken",Italian,Vegetarian
+Dish_832,"tofu, yogurt, beans, coconut",French,Vegetarian
+Dish_833,"pork, chicken, lentils, coconut, beans, mint",Greek,Non-Vegetarian
+Dish_834,"spinach, chicken, ginger, mint, lentils, garlic, basil",Greek,Vegan
+Dish_835,"mint, tomato, pork, onion, chicken",French,Vegan
+Dish_836,"onion, chili, spinach, basil, yogurt",Mexican,Vegan
+Dish_837,"lime, soy sauce, basil, tomato, beans, pork, carrot",Thai,Vegetarian
+Dish_838,"chili, soy sauce, onion, pork, pepper, ginger",Chinese,Vegetarian
+Dish_839,"pepper, tomato, spinach, noodles, yogurt",Indian,Vegetarian
+Dish_840,"lime, carrot, basil, pepper",Greek,Vegan
+Dish_841,"coconut, tofu, cheese, ginger, yogurt",Thai,Vegetarian
+Dish_842,"lentils, carrot, beans, chicken, pepper",Italian,Vegan
+Dish_843,"chili, basil, beans, mint",Thai,Vegan
+Dish_844,"spinach, potato, chicken, pepper, soy sauce",Mexican,Vegetarian
+Dish_845,"cheese, chicken, chili, basil, garlic, mint",Indian,Non-Vegetarian
+Dish_846,"potato, soy sauce, yogurt, noodles, beans, garlic",Mexican,Vegan
+Dish_847,"pork, tofu, beans, lime, spinach, beef",Thai,Vegetarian
+Dish_848,"beans, basil, soy sauce, onion, pork",Japanese,Vegan
+Dish_849,"basil, noodles, chicken, carrot, lentils, mint, tomato",Indian,Vegetarian
+Dish_850,"mint, basil, pork, onion, ginger",Greek,Vegan
+Dish_851,"tomato, coconut, potato, noodles, garlic, pork",Mexican,Vegan
+Dish_852,"cheese, coconut, beans, garlic",Greek,Vegetarian
+Dish_853,"ginger, coconut, tomato, yogurt, pepper, spinach",Italian,Vegan
+Dish_854,"carrot, basil, pepper, beef",Chinese,Vegan
+Dish_855,"basil, noodles, carrot, pork, rice, cheese, chili",Mexican,Vegan
+Dish_856,"pork, tofu, onion, rice, beans",Indian,Vegan
+Dish_857,"beans, carrot, onion, spinach, tomato",Indian,Non-Vegetarian
+Dish_858,"soy sauce, tofu, onion, beef, carrot, pork",Indian,Non-Vegetarian
+Dish_859,"chicken, pepper, coconut, spinach, rice",French,Non-Vegetarian
+Dish_860,"rice, beans, soy sauce, noodles",Chinese,Non-Vegetarian
+Dish_861,"coconut, beans, tomato, lime",Italian,Vegan
+Dish_862,"garlic, coconut, rice, mint, yogurt, onion",Japanese,Vegan
+Dish_863,"chili, spinach, soy sauce, tomato, potato, carrot",Mexican,Non-Vegetarian
+Dish_864,"potato, chicken, spinach, cheese",Italian,Non-Vegetarian
+Dish_865,"noodles, pepper, chicken, coconut, garlic, tofu",Thai,Non-Vegetarian
+Dish_866,"pork, chili, chicken, rice, lentils",Chinese,Non-Vegetarian
+Dish_867,"lentils, rice, ginger, mint, pepper, spinach, garlic",French,Vegan
+Dish_868,"rice, pepper, garlic, lime, mint, yogurt",Mexican,Vegetarian
+Dish_869,"lime, onion, noodles, tofu, spinach, pork",Japanese,Vegan
+Dish_870,"tofu, chili, beef, tomato, noodles",Greek,Non-Vegetarian
+Dish_871,"noodles, basil, lime, onion, pepper, tomato, chili",Greek,Vegan
+Dish_872,"yogurt, pork, carrot, soy sauce, beans",Thai,Vegetarian
+Dish_873,"mint, tomato, rice, garlic, pork, spinach",Chinese,Vegan
+Dish_874,"garlic, ginger, basil, onion, coconut, soy sauce, rice",Indian,Vegetarian
+Dish_875,"lentils, chili, garlic, mint, beans, rice",Indian,Non-Vegetarian
+Dish_876,"pork, coconut, noodles, chicken, tofu, basil",Chinese,Non-Vegetarian
+Dish_877,"spinach, coconut, beef, tomato, beans, pepper",Thai,Non-Vegetarian
+Dish_878,"tomato, potato, onion, noodles",Greek,Vegan
+Dish_879,"garlic, tofu, onion, yogurt, rice, ginger",Indian,Vegan
+Dish_880,"pepper, mint, tomato, soy sauce, chili",Mexican,Vegetarian
+Dish_881,"ginger, beef, carrot, lentils, tofu, potato",French,Vegan
+Dish_882,"beans, beef, carrot, cheese",Indian,Non-Vegetarian
+Dish_883,"carrot, beef, chili, spinach, potato",Italian,Non-Vegetarian
+Dish_884,"beans, beef, garlic, tofu, pork, pepper",Indian,Non-Vegetarian
+Dish_885,"soy sauce, garlic, tomato, lentils, coconut, yogurt, tofu",Mexican,Vegan
+Dish_886,"pepper, lime, tofu, garlic, yogurt",Italian,Vegetarian
+Dish_887,"coconut, spinach, chicken, lime, onion",Greek,Vegan
+Dish_888,"chili, potato, mint, yogurt, carrot, cheese",Greek,Vegan
+Dish_889,"ginger, pork, cheese, spinach, lime, noodles",Mexican,Vegetarian
+Dish_890,"pepper, potato, coconut, rice, beef, ginger",Indian,Vegan
+Dish_891,"basil, cheese, ginger, pepper, potato, spinach, soy sauce",Chinese,Non-Vegetarian
+Dish_892,"yogurt, noodles, coconut, spinach, mint, cheese",Italian,Vegan
+Dish_893,"beans, coconut, basil, cheese",Japanese,Vegan
+Dish_894,"cheese, tomato, chili, chicken, rice",Greek,Vegan
+Dish_895,"lime, garlic, rice, beef",Indian,Vegan
+Dish_896,"pork, basil, lime, tomato, chicken, chili",French,Non-Vegetarian
+Dish_897,"pepper, onion, chicken, cheese, garlic, mint, lime",French,Non-Vegetarian
+Dish_898,"lime, pepper, onion, tomato",Thai,Vegetarian
+Dish_899,"onion, ginger, noodles, tofu, chicken",Thai,Vegan
+Dish_900,"pork, onion, chicken, pepper, noodles, soy sauce, carrot",Japanese,Non-Vegetarian
+Dish_901,"mint, lentils, ginger, pork",Greek,Vegetarian
+Dish_902,"cheese, pepper, lentils, ginger, noodles, basil",Greek,Non-Vegetarian
+Dish_903,"rice, lentils, ginger, soy sauce, garlic, onion, noodles",Mexican,Vegan
+Dish_904,"beans, yogurt, soy sauce, onion",French,Non-Vegetarian
+Dish_905,"garlic, carrot, mint, pepper",Greek,Vegan
+Dish_906,"soy sauce, spinach, onion, pork, tomato, coconut",Thai,Vegetarian
+Dish_907,"lentils, tofu, yogurt, ginger, cheese, spinach, soy sauce",Italian,Non-Vegetarian
+Dish_908,"spinach, tofu, cheese, soy sauce",Greek,Non-Vegetarian
+Dish_909,"mint, noodles, coconut, spinach, tofu, beans",Mexican,Vegan
+Dish_910,"chicken, potato, soy sauce, cheese, basil",Mexican,Vegan
+Dish_911,"tomato, pork, onion, tofu, potato",Chinese,Vegan
+Dish_912,"pork, beans, ginger, carrot, potato, beef",Japanese,Non-Vegetarian
+Dish_913,"onion, tomato, pepper, cheese, coconut",French,Non-Vegetarian
+Dish_914,"tofu, cheese, lentils, spinach, noodles",Indian,Vegetarian
+Dish_915,"lime, tomato, tofu, onion, lentils, rice, ginger",Mexican,Non-Vegetarian
+Dish_916,"tomato, soy sauce, carrot, coconut",Chinese,Non-Vegetarian
+Dish_917,"noodles, onion, chicken, potato, tomato",Chinese,Vegan
+Dish_918,"noodles, yogurt, lentils, lime, chili, pork, beef",Japanese,Non-Vegetarian
+Dish_919,"pork, yogurt, mint, lime, rice",Italian,Vegan
+Dish_920,"lentils, spinach, coconut, tofu, pepper, yogurt, mint",Greek,Vegetarian
+Dish_921,"lentils, mint, potato, pork, chili, pepper",Chinese,Non-Vegetarian
+Dish_922,"cheese, tomato, basil, rice",Italian,Non-Vegetarian
+Dish_923,"beans, carrot, noodles, spinach",Italian,Vegan
+Dish_924,"chili, tofu, lentils, coconut, carrot",Indian,Vegetarian
+Dish_925,"potato, chicken, noodles, beans",Greek,Vegan
+Dish_926,"spinach, onion, pork, carrot",Italian,Non-Vegetarian
+Dish_927,"carrot, garlic, basil, pork, tofu",Chinese,Vegetarian
+Dish_928,"potato, beef, ginger, soy sauce, chicken, pork",Japanese,Vegan
+Dish_929,"yogurt, onion, lime, tomato, garlic",Thai,Non-Vegetarian
+Dish_930,"spinach, lime, lentils, onion",Thai,Vegan
+Dish_931,"potato, soy sauce, spinach, coconut",Japanese,Vegetarian
+Dish_932,"mint, garlic, lime, chicken",Japanese,Vegetarian
+Dish_933,"noodles, yogurt, basil, lentils, cheese, garlic, pork",Chinese,Vegan
+Dish_934,"lentils, pepper, carrot, coconut, pork, cheese",Mexican,Vegan
+Dish_935,"cheese, pepper, chicken, onion, spinach",Thai,Vegetarian
+Dish_936,"yogurt, tomato, mint, garlic, beans, carrot",Chinese,Vegan
+Dish_937,"tofu, rice, spinach, potato, lime",Mexican,Non-Vegetarian
+Dish_938,"lentils, basil, potato, noodles, pork, carrot",Japanese,Vegetarian
+Dish_939,"carrot, beef, pepper, mint, tomato",Greek,Non-Vegetarian
+Dish_940,"carrot, coconut, chicken, chili, cheese, beef, ginger",French,Non-Vegetarian
+Dish_941,"pepper, onion, ginger, cheese, lentils, pork, chili",Mexican,Vegetarian
+Dish_942,"mint, pepper, tofu, chili, beans, chicken, ginger",French,Vegan
+Dish_943,"chicken, soy sauce, lime, spinach, carrot, beans",Greek,Non-Vegetarian
+Dish_944,"carrot, beans, tomato, beef, chili",Indian,Vegan
+Dish_945,"tofu, mint, carrot, garlic, chicken, tomato, lentils",Greek,Vegan
+Dish_946,"tofu, soy sauce, lentils, pork, chili, potato, noodles",Indian,Non-Vegetarian
+Dish_947,"ginger, soy sauce, beef, pepper, pork",Greek,Non-Vegetarian
+Dish_948,"soy sauce, lime, pepper, onion, spinach, beef, cheese",French,Non-Vegetarian
+Dish_949,"chicken, noodles, yogurt, beef",Chinese,Non-Vegetarian
+Dish_950,"garlic, carrot, cheese, beans, basil",Italian,Vegan
+Dish_951,"noodles, spinach, cheese, chili, chicken",Italian,Vegetarian
+Dish_952,"chili, potato, soy sauce, yogurt, lentils, spinach, pork",Italian,Vegan
+Dish_953,"mint, coconut, yogurt, carrot, beef, beans",Italian,Non-Vegetarian
+Dish_954,"garlic, lentils, potato, tomato, cheese",Thai,Non-Vegetarian
+Dish_955,"garlic, soy sauce, lime, chicken, spinach, chili",French,Vegan
+Dish_956,"tomato, ginger, coconut, beef, pork",Thai,Vegetarian
+Dish_957,"ginger, yogurt, coconut, basil, chicken",Mexican,Vegetarian
+Dish_958,"tomato, chicken, beef, noodles",Indian,Vegan
+Dish_959,"lime, onion, lentils, yogurt, rice",Greek,Non-Vegetarian
+Dish_960,"tofu, basil, chili, yogurt, onion, cheese",Thai,Vegetarian
+Dish_961,"beans, pork, spinach, beef",Italian,Vegetarian
+Dish_962,"lentils, noodles, chili, tofu, chicken, cheese, pepper",French,Vegetarian
+Dish_963,"carrot, pork, yogurt, lime",Italian,Non-Vegetarian
+Dish_964,"carrot, tofu, ginger, chili, pepper, spinach",Indian,Non-Vegetarian
+Dish_965,"mint, spinach, onion, coconut, chicken, carrot",Chinese,Vegan
+Dish_966,"beef, mint, potato, onion, coconut",Italian,Vegetarian
+Dish_967,"chili, beans, mint, pork, tomato, beef, noodles",Indian,Vegan
+Dish_968,"tomato, beans, soy sauce, cheese, chili",Chinese,Vegan
+Dish_969,"potato, chicken, spinach, lentils",Japanese,Vegetarian
+Dish_970,"tofu, beans, soy sauce, basil",Indian,Vegan
+Dish_971,"beef, ginger, mint, rice, cheese",Indian,Vegan
+Dish_972,"beef, coconut, mint, lime",Japanese,Non-Vegetarian
+Dish_973,"carrot, pepper, mint, tofu, chicken",Thai,Non-Vegetarian
+Dish_974,"garlic, pork, pepper, soy sauce",Chinese,Non-Vegetarian
+Dish_975,"mint, ginger, pepper, onion",Indian,Vegan
+Dish_976,"chicken, noodles, spinach, rice, beans",Italian,Vegan
+Dish_977,"carrot, beef, tofu, chili",Italian,Vegan
+Dish_978,"tomato, tofu, lime, mint, cheese",Mexican,Vegan
+Dish_979,"pork, spinach, garlic, pepper, coconut, lentils",Japanese,Vegan
+Dish_980,"cheese, pork, garlic, mint, chili, spinach, lime",Chinese,Vegan
+Dish_981,"soy sauce, tomato, spinach, yogurt, beef, coconut, ginger",Japanese,Vegan
+Dish_982,"garlic, carrot, basil, lime",French,Vegetarian
+Dish_983,"tofu, pork, tomato, onion, yogurt",Japanese,Vegetarian
+Dish_984,"tomato, basil, beef, noodles, lime, pepper, mint",Greek,Non-Vegetarian
+Dish_985,"noodles, tofu, chicken, cheese",Japanese,Vegan
+Dish_986,"beef, pepper, chicken, onion, tofu, potato",Italian,Non-Vegetarian
+Dish_987,"coconut, onion, carrot, beef, soy sauce, rice",Italian,Vegetarian
+Dish_988,"rice, chicken, carrot, coconut, chili, cheese",Thai,Non-Vegetarian
+Dish_989,"pork, pepper, tomato, basil, beef",Italian,Vegetarian
+Dish_990,"yogurt, lime, mint, chili, tomato, onion, chicken",French,Vegetarian
+Dish_991,"tofu, garlic, yogurt, rice, lentils",Chinese,Vegan
+Dish_992,"tomato, beef, garlic, yogurt",Indian,Vegetarian
+Dish_993,"onion, yogurt, carrot, soy sauce, cheese, potato, lime",Mexican,Vegetarian
+Dish_994,"carrot, noodles, tomato, chicken, coconut",Japanese,Vegetarian
+Dish_995,"chicken, coconut, carrot, noodles, onion",Italian,Vegetarian
+Dish_996,"lentils, carrot, cheese, noodles, beef, ginger",Chinese,Vegan
+Dish_997,"tofu, beans, lentils, chicken, garlic, tomato",Greek,Vegetarian
+Dish_998,"lime, basil, cheese, tofu",Japanese,Non-Vegetarian
+Dish_999,"lime, rice, tofu, soy sauce",Chinese,Non-Vegetarian
+Dish_1000,"onion, basil, garlic, pepper, potato, chili, rice",Italian,Vegan
